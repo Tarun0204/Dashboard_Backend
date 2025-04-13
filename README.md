@@ -22,8 +22,8 @@
 2. Backend: https://dashboard-backend-hmq1.onrender.com
 
 # How to run the project locally:
-Please follow the Video Instructions: 
+Please follow the Video Instructions: https://drive.google.com/file/d/1nfpYjsiYUVBU7P7UesYuswWCI9L-P7nk/view?usp=drivesdk
 
 # Screenshots of the Dashboard
-Drive Link: 
+Drive Link: https://drive.google.com/drive/folders/1YFw3-KZcRIS0owGLbFD4s7MK1052AjHY
 
