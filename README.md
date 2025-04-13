@@ -23,3 +23,7 @@
 
 # How to run the project locally:
 Please follow the Video Instructions: 
+
+# Screenshots of the Dashboard
+Drive Link: 
+
